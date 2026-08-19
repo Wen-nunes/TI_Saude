@@ -1,4 +1,5 @@
-# TI_Saude
+#04/08/2026
+## TI_Saude
 
 ## Saúde: 
 - Diagnostico -> Volumes de Dados (Algoritmo de aprendizado de Maquinas)
@@ -19,3 +20,16 @@ e informações de dados dinâmicos e específicos.
 - MD
 
 ### Sistemas Multiagentes 
+
+# 18/08/2026
+## Revisão da ultima aula: 
+### KDD -> Mineração de Dados -> Reconhecimento de Padrões ( Predição e Precisão )
+ - Modelos Treinados
+ - Modelos Matemáticos -> Amostras ( Entradas x Features ) ( Saídas Esperadas x Target )
+        - Entradas -> atributos, características, propriedades, variáveis
+        - Features -> Resultado Binário
+
+## Predição: 
+- Classificar, Categorizar, Etiquetar, Rotular
+- Melhor modelo e mais utilizado -> Metodologia de Árvore ( Decision Tree Classifier )
+- Overfitting -> O sistema estagna como se fosse um "vicio", retorna somente um resultado. Sistema decora uma predição ao inves de aprender.
