@@ -33,3 +33,12 @@ e informações de dados dinâmicos e específicos.
 - Classificar, Categorizar, Etiquetar, Rotular
 - Melhor modelo e mais utilizado -> Metodologia de Árvore ( Decision Tree Classifier )
 - Overfitting -> O sistema estagna como se fosse um "vicio", retorna somente um resultado. Sistema decora uma predição ao inves de aprender.
+
+#25/08/2026
+
+### Revisar métricas: 
+- accuracy_Score
+- classification_report
+- confusion_matrix
+- f1_score
+
