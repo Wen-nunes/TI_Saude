@@ -8,7 +8,7 @@ Apresenta um desempenho mediano, com acurácia de 65% e F1-Score de 0.4800. Sua 
 2. Gradient Boosting
 <img width="219" height="114" alt="image" src="https://github.com/user-attachments/assets/325a11a9-f777-4c0f-b081-1a18c4ac8afc" />
 
-Apresenta sinal de overfitting devido a dificuldade em identificar a classe 1. Desempenho fraco, evidenciado pela queda no F1-Score 0.3478 e acurácia de 60%. O modelo falhou na identificação da classe positiva, gerando 22 falsos negativos e acertando apenas 8 previsões de interesse.
+Apresenta sinal de overfitting devido a dificuldade em identificar a classe, classe dos clientes que compram o produto. Desempenho fraco, evidenciado pela queda no F1-Score 0.3478 e acurácia de 60%. O modelo falhou na identificação da classe positiva, gerando 22 falsos negativos e acertando apenas 8 previsões de interesse.
 
 3. Random Forest
 <img width="187" height="113" alt="image" src="https://github.com/user-attachments/assets/1a7863d5-13b5-4fda-ae2d-12790b9afd23" />
